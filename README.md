@@ -1,2 +1,2 @@
 
-Complete Ruby on Rails Developer
+Complete Ruby on Rails Developer by Aleksandra Szegda
